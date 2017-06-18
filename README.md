@@ -1,5 +1,7 @@
 # cra-rewired
 
+Bootstraped React app with custom webpack configuration and boilerplating
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 This project template is rewired for custom webpack configurations.
